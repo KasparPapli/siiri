@@ -1,3 +1,7 @@
+package main;
+
+import data.Course;
+
 import java.util.List;
 
 public interface Siiri {
